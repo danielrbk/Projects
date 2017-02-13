@@ -2,6 +2,7 @@
 Non-degree related projects made by Daniel Rejabek
 
 These problems are a selection of the many problems I've solved on hackerrank.com, where for every problem you are limited to exactly 10 seconds to solve all testcases on runtime, forcing you to solve the problems as efficiently as possible.
+Every problem is documented, explaining my thought process and choice of algorithm.
 
 I've used these problems to teach myself python 3.
 
